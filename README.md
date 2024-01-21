@@ -1,11 +1,11 @@
 # Music Downloader Bot
 **Using this bot, you can download music from youtube.**
 
-## Features
+## 💫 Features
 - **Download any music that exists in youtube**
 - **No need of authentication of youtube**
 
-## Installation & Setup
+## 🗃️ Installation & Setup
 ```
 git clone https://github.com/NYDEV0/MusicDownloaderBot
 cd MusicDownloaderBot
@@ -18,6 +18,6 @@ api_hash = "" # Telegram api hash from https://my.telegram.org
 bot_token = "" # Telegram bot token from @BotFather  
 ```
 
-## Usage
+## ⚙️ Usage
 Send the name of music that you want to download, then click on button that has your desire music
 
