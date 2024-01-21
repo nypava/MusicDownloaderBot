@@ -1,0 +1,5 @@
+pyrogram
+tgcrypto
+youtube-search-python
+requests
+git+https://github.com/NYDEV0/pytube.git@master

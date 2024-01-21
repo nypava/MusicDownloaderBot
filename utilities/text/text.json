@@ -1,0 +1,5 @@
+{
+    "start":"**Hey** {},\n\n This is **music downloader bot**, which lets you download any music.\n\nJust **shoot me** the music",
+    "download":"`{}`\n\n__🔄 Downloading to server ...__",
+    "upload":"`{}`\n\n__🔄 Uploading to telegram ...__"
+}
