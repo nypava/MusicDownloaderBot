@@ -7,7 +7,8 @@
 
 ## Installation & Setup
 ```
-git clone https://github.com/NYDEV0/MusicdownloaderBot
+git clone https://github.com/NYDEV0/MusicDownloaderBot
+cd MusicDownloaderBot
 pip install -r requirements.txt
 ```
 In config.py file configure with your own data
