@@ -6,6 +6,6 @@ start_btn = InlineKeyboardMarkup([
         InlineKeyboardButton("Group",url="https://t.me/neuralg"),
     ],
     [
-        InlineKeyboardButton("📁 Source code",url="https://github.com/NYDEV0/SpeechRecognitionBot"),
+        InlineKeyboardButton("📁 Source code",url="https://github.com/NYDEV0/MusicDownloaderBot"),
     ]
 ])
