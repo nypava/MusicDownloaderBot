@@ -2,4 +2,4 @@ pyrogram
 tgcrypto
 youtube-search-python
 requests
-git+https://github.com/NYDEV0/pytube.git@master
+git+https://github.com/Yellastro2/pytube_community@master

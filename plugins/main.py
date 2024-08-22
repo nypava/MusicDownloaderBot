@@ -12,7 +12,7 @@ async def main(client, message):
     image = yt.image()
     videos = yt.videos()
 
-    inline_buttons = [] 
+    inline_buttons = []   
     for video in videos:
         inline_buttons.append([InlineKeyboardButton(f"🎵 {video[2]} ・ {video[1]} ", callback_data=video[0])])
     

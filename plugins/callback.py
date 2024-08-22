@@ -31,7 +31,7 @@ def main(client, callbackquery):
 
     upload_msg = data["upload"].format(title)
     status.edit_text(upload_msg)
-
+    
     client.send_video(chat_id=chat_id, video=download_dist)
     status.delete()
 
@@ -42,8 +42,3 @@ def main(client, callbackquery):
 def callback(client, callbackquery):
     thread = Thread(target=main, args=[client, callbackquery])
     thread.start()
-
-
-    
-    
-
